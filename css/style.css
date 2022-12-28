@@ -357,6 +357,7 @@ input[type="text"], input[type="mail"], select, textarea{
   text-align: center;
   padding-bottom: 30px;
   color: #5f5d60;
+  margin-top: 20px;
 }
 
 #faq-list {
@@ -371,7 +372,7 @@ input[type="text"], input[type="mail"], select, textarea{
   position:relative;
   cursor:pointer;
   text-align: left;
-  padding-left:2px;
+  padding:5px 0 0 2px;
 }
 
 .faq-list-item span {
