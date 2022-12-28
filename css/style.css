@@ -43,7 +43,7 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 }
 
 #sidebar {
-	background: #EEEE;
+	background: #fff;
 }
 
 /* フッター
@@ -207,9 +207,7 @@ section h2 span {
 }
 
 /* メイン　*/
-#mainImg{
-	
-}
+
 
 /* SEC02 はじめに
 ------------------------------------------------------------*/
@@ -447,7 +445,7 @@ input[type="text"], input[type="mail"], select, textarea{
 		position: fixed;
 		top: 0;
 		right: 0;
-		background: #EEEE;
+		background: #fff;
 		margin: 0;
 		text-align: center;
 	}
